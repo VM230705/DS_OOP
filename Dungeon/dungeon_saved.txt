@@ -1,0 +1,5 @@
+Treasure
+One_Piece 9999999 0 0 0 0 0
+Player:
+john Player 150 150 110 0 50 50 50 6 5 1
+Sword Weapon 0 30 0 0 0
